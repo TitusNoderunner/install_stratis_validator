@@ -1,0 +1,2 @@
+# install_stratis_validator
+install_stratis_validator.sh
